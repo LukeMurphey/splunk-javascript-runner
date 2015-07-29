@@ -1,4 +1,4 @@
-<project default="package" name="slideshow">
+<project default="package" name="javascript-runner">
 
     <!--
     Load the properties files, local is loaded first since properties are immutable (cannot be changed
