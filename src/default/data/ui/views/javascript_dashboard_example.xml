@@ -1,0 +1,14 @@
+<dashboard>
+  <label>Javascript on Dashboard Example</label>
+    <row>
+        <html>
+          	Current time (being updated with Javascript):
+          	<div style="margin-top:12px" id="time"></div>
+            <div class="javascript">
+              setInterval(function(){ 
+              	$('#time').html(new Date());
+              }, 1000);
+            </div>
+        </html>
+    </row>
+</dashboard>

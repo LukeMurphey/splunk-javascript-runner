@@ -1,4 +1,4 @@
-<project default="package" name="javascript-runner">
+<project default="package" name="javascript_on_dashboards">
 
     <!--
     Load the properties files, local is loaded first since properties are immutable (cannot be changed
