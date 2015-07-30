@@ -9,7 +9,7 @@ A sample Splunk app showing how to use a custom chunk of Javascript that allows 
 
 # How to add scripting to your view
 
-You will need to make your view with a special div that will inlcude your Javascript. All you need to do is to make an html block that includes a div with a class of "javascript". The code within this div will be interpreted as Javascript and executed automatically.
+You will need to make your view with a special div that will include your Javascript. All you need to do is to make an html block that includes a div with a class of "javascript". The code within this div will be interpreted as Javascript and executed automatically.
 
 The app includes a view titled "javascript_dashboard_example" that shows an example.
 
